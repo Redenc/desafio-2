@@ -1,0 +1,11 @@
+.container{
+    background-color: #be9ff0;
+    padding: 2rem;
+    display: grid;
+    place-content: center;
+    width: 16rem;
+}
+img{
+    width: 15rem;
+    height: 20rem;
+}
